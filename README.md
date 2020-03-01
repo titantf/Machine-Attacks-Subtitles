@@ -9,4 +9,4 @@ Each map's subtitles are listed in their own .cfg file. The lines found in these
 
 ### I want to make a change!
 ---
-If you wish to make a change to the subtitles, fork this repository and edit on your forked repository. Then make a push commit to this repository. We will review the changes accordingly.
+If you wish to make a change to the subtitles, fork this repository and edit on your forked repository. Then make a pull request to this repository. We will review the changes accordingly.
